@@ -1,5 +1,5 @@
-# Object file
+#kos.di.Banyuwangi
 *.o
 
 # Ada Library Information
-*.ali
+*
